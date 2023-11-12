@@ -91,10 +91,10 @@ h3 {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .hero-button {
-  align-items: flex-start;
   background: #4d5ae5;
   color: #ffffff;
   font-weight: 500;
@@ -119,6 +119,10 @@ h3 {
   color: #434455;
 }
 
+.section-two-h3 {
+  color: #2e2f42;
+}
+
 .team-section {
   background-color: #f4f4fd;
 }
@@ -127,6 +131,7 @@ h3 {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
+  color: #2e2f42;
 }
 
 .team-section-preson {
